@@ -1,8 +1,8 @@
 #include <iostream>
 
-//#ifndef CONTEST
+#ifndef CONTEST
 #include "fullratio.hpp"
-//#endif
+#endif
 
 using namespace std;
 
